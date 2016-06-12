@@ -113,10 +113,10 @@ defaults:
 
 
 # Collections
-collections:
-  skills:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  skills:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Reading Files

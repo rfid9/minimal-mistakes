@@ -5,23 +5,10 @@ activeurl-1: "http://localhost:4000"
 activeurl-2: "http://rfid9.github.io"
 ---
 
-> This is the skills page
-
-This page will contain a menu on the left that will replace my info. From there you will be about to select between:
-
-- Certifications
-- System Administration
-- Cyber Security
-- Intrustion Detection
-- Misc
-
-
-Each category will have skills within it.
-
+---------------------
 ---------------------
 
 ## Certifications
-<br>
 
 ---
 

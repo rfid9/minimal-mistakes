@@ -92,6 +92,32 @@ author:
   xing             :
   youtube          :
 
+# Defaults 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages 
+    values:
+      author_profile: true    
+      layout: single
+  # _skills
+  - scope:
+      path: ""
+      type: skills
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "skills"
+
+
+# Collections
+collections:
+  skills:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Reading Files
 include:

@@ -7,14 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raymond Quiles | InfoSec"
-title_separator          : "-"
+title                    : "rfid"
+title_separator          : "|"
 name                     : "Raymond Quiles"
-description              : "Protecting the government’s interests by securing their assets."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A page about a nerd."
+### Uncomment url before uploading ###
+url                      : # rfid9.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # /images/med-logo.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -62,10 +64,8 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Raymond Quiles"
-  # avatar           : "bio-photo.jpg"
-  avatar           : "me.jpg"
-  bio              : ""
-  # bio              : "Information Security Professional"
+  avatar           : "huge-logo-color.png"
+  bio              : "Information Security Professional"
   location         : "Greater St. Louis Area"
   email            : "quiles.raymond@gmail.com"
   uri              :
@@ -80,7 +80,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/raymond-quiles-283933106
+  linkedin         : raymond-quiles-283933106
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

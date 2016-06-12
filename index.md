@@ -2,10 +2,12 @@
 layout: archive
 author_profile: true
 permalink: /
+localurl: "http://localhost:4000"
+remoteurl: "http://rfid9.github.io"
 ---
 
-![](http://localhost:4000/images/me-crop.jpg "This is me!")
-
+<!-- Switch when uploading to github -->
+![]({{ page.localurl }}/images/me-crop.jpg "This is me!")
 
 
 # Raymond Quiles (rfid)

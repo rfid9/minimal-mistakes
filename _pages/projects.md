@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /projects
+# permalink: /projects
 ---
 
 > This is the Projects Page

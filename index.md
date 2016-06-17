@@ -12,12 +12,14 @@ remoteurl: "http://rfid9.github.io"
 
 # Raymond Quiles (rfid)
 
-> Potecting the government’s interests by securing its assets.
+> Protecting the government’s interests by securing its assets.
 
 -----------------
 
-### Summary
+### About Me
 
-Over six years of telecommunication experience in the United States Air Force and a military veteran. Currently I work as a Cyber Security Engineer conducting vulnerability assessments and STIG compliance checks on critical assets. While also, furthering the development of high visability GOTS assessment tools. 
+I am a Information Security Professional and a Linux Systems Administrator. I dedicated seven years to the United States Air Force as Satellite Communication Technician and a Cyber Warfare Operator. Currently I work as a Cyber Security Engineer in the Greater St. Louis Area.
 
-Thank you for taking the time to visit!
+On my personal time I enjoy tinkering with various facets of technology including building PCs, managing personal servers, and training in my lab environment. I also like to compete in hacking competitions, play video games, read comic books, and immerse myself in great stories via movies or TV shows.
+
+Thanks for taking the time to visit!

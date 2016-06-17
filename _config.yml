@@ -67,8 +67,8 @@ author:
   avatar           : "huge-logo-color.png"
   bio              : "Information Security Professional"
   location         : "Greater St. Louis Area"
-  email            : "quiles.raymond@gmail.com"
-  uri              :
+  email            :
+  uri              : http://raymondquiles.com/
   bitbucket        :
   codepen          :
   dribbble         :
@@ -86,20 +86,20 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : Raymond_Quiles
   vine             :
   weibo            :
   xing             :
   youtube          :
 
-# Defaults 
+# Defaults
 defaults:
   # _pages
   - scope:
       path: ""
-      type: pages 
+      type: pages
     values:
-      author_profile: true    
+      author_profile: true
       layout: single
   # _skills
   - scope:

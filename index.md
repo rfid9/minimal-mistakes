@@ -7,7 +7,7 @@ remoteurl: "http://rfid9.github.io"
 ---
 
 <!-- Switch when uploading to github -->
-![]({{ page.localurl }}/images/me-crop.jpg "This is me!")
+![]({{ page.remoteurl }}/images/me-crop.jpg "This is me!")
 
 
 # Raymond Quiles (rfid)
